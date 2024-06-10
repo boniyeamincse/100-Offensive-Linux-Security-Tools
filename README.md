@@ -1,5 +1,7 @@
-# 100-Offensive-Linux-Security-Tools
 
+# 100 Offensive Linux Security Tools
+
+In the realm of cybersecurity, having a robust arsenal of tools is crucial for both defending and attacking systems. Offensive security tools help penetration testers and security professionals identify vulnerabilities before malicious actors can exploit them. Here, we present an extensive list of 100 offensive Linux security tools, detailing their functionalities and applications.
 
 | S.L. | Tool Name             | Description                                                                                       |
 |------|-----------------------|---------------------------------------------------------------------------------------------------|
